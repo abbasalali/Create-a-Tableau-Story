@@ -3,7 +3,7 @@ Udacity DAND Project - Create a Tableau Story
 
 **PURPOSE**
 
-To communicate the insights and visualizations produced as a result of exploring the Titanic Dataset.
+To communicate the insights and visualizations produced as a result of exploring the [Titanic Dataset](https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59d54e6d_titanic-data/titanic-data.csv&sa=D&ust=1519634575074000&usg=AFQjCNEfgpLNpDICResCFGKm_1nYU3cDSw)
 
 
 **SUMMARY:**
