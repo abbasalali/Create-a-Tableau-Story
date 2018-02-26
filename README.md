@@ -8,7 +8,7 @@ To communicate the insights and visualizations produced as a result of exploring
 
 **SUMMARY:**
 
-The dataset explored contains demographic and passenger information from a subset of the 2224 passengers and crew on board of Titanic. The man objective of visualizations produced is to show the demographics or passenger information between those passengers who survived and those who died
+The dataset explored contains demographic and passenger information from a subset of the 2224 passengers and crew on board of Titanic. The main objective of visualizations produced is to show the demographics or passenger information between those passengers who survived and those who died
 
 [INITIAL VISUALIZATION](https://public.tableau.com/views/TitanicSurvivalCount/Story1?:embed=y&:display_count=yes)
 
